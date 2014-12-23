@@ -4,19 +4,19 @@
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dragonfruit - Free HTML5 Templates</title>
+    <title>超级经理人</title>
     <meta name="description" content="Dragonfruit is one of the free HTML5 Templates from templatemo. It is a parallax layout with jQuery slider, events, and timeline." />
     <meta name="author" content="templatemo">
     <!-- Favicon-->
-    <link rel="shortcut icon" href="__P/itaste/Public/images__/favicon.png" />		
+    <link rel="shortcut icon" href="/web-php/itaste/Public/images__/favicon.png" />		
     <!-- Font Awesome -->
-    <link href="/itaste/Public/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/web-php/itaste/Public/css/font-awesome.min.css" rel="stylesheet">
     <!-- Bootstrap -->
-    <link href="/itaste/Public/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/web-php/itaste/Public/css/bootstrap.min.css" rel="stylesheet">
     <!-- Camera -->
-    <link href="/itaste/Public/css/camera.css" rel="stylesheet">
+    <link href="/web-php/itaste/Public/css/camera.css" rel="stylesheet">
     <!-- Template  -->
-    <link href="/itaste/Public/css/templatemo_style.css" rel="stylesheet">
+    <link href="/web-php/itaste/Public/css/templatemo_style.css" rel="stylesheet">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -29,20 +29,26 @@
     <ul>
         <li class="templatemo_banner_slide_01">
             <div class="slide_caption">
-                <h1>Responsive Design</h1>
-                <p>Aenean diam libero, venenatis eu risus eu, tincidunt porttitor orci. Nulla consequat mi et lectus vehicula condimentum. Nulla ullamcorper dolor vehicula dolor interdum, eget fermentum ligula bibendum.</p>
+                <h1>我们的宗旨是</h1>
+                <p>全心全意打造高效整合资源经营理念，消弱产业信息不对称，实现资源的高效、快速整合，加速产业发展；把每一个日日夜夜在外打拼的经纪人打造成经理人、实现人人都是超级经理人</p>
             </div>
         </li>
         <li class="templatemo_banner_slide_02">
             <div class="slide_caption">
-                <h1>Free HTML5 Template</h1>
-                <p>Nulla in nibh arcu. Donec quam neque, porta at pellentesque at, imperdiet ut velit. Pellentesque luctus ac nunc et hendrerit. Aliquam eu scelerisque eros. Vestibulum scelerisque mi nec augue condimentum rhoncus.</p>
+                <h1>超级经理人是什么</h1>
+                <p>O2O超级整合资源时代已来临，为加快工业地产资源整合力度，特推出超级经理人、一个完全颠覆传统理念、完全免费的资源整合平台，节约您的时间成本，还等是什么</p>
             </div>
         </li>
         <li class="templatemo_banner_slide_03">
             <div class="slide_caption">
-                <h1>Mobile Ready</h1>
-                <p>Cras fermentum convallis elementum. Praesent sit amet auctor erat, vitae auctor dolor. Sed viverra nunc magna, quis placerat augue pellentesque quis. Sed nec pellentesque dolor. Aenean in lectus enim. Phasellus eu egestas libero. Vivamus ultrices ligula a dapibus lobortis.</p>
+                <h1>我们能提供什么</h1>
+                <p>现有的功能主要包括：厂房信息在地图中的快速采集、快速客户配盘、附近厂房搜集、及时房东qq直聊，在我们的产品中，会不定期推出经纪人关心的相关功能，敬请期待......</p>
+            </div>
+        </li>
+        <li class="templatemo_banner_slide_04">
+            <div class="slide_caption">
+                <h1>我的数据安全吗</h1>
+                <p>除非您自己把信息共享出去，否则信息只有您自己能看见......</p>
             </div>
         </li>
     </ul>
@@ -50,29 +56,32 @@
 
 <div id="templatemo_mobile_menu">
         <ul class="nav nav-pills nav-stacked">
-            <li><a href="#templatemo_banner_slide"><i class="glyphicon glyphicon-home"></i> &nbsp; Home</a></li>
-            <li><a href="#templatemo_about"><i class="glyphicon glyphicon-briefcase"></i> &nbsp; About</a></li>
-            <li><a href="#templatemo_events"><i class="glyphicon glyphicon-bullhorn"></i> &nbsp; Events</a></li>
-            <li><a href="#templatemo_timeline"><i class="glyphicon glyphicon-calendar"></i> &nbsp; Timeline</a></li>
-            <li><a href="#templatemo_contact"><i class="glyphicon glyphicon-phone-alt"></i> &nbsp; Contact</a></li>
+            <li><a href="#templatemo_banner_slide"><i class="glyphicon glyphicon-home"></i> &nbsp; 主页</a></li>
+            <li><a href="#templatemo_about"><i class="glyphicon glyphicon-briefcase"></i> &nbsp; 团队</a></li>
+            <li><a href="#templatemo_events"><i class="glyphicon glyphicon-bullhorn"></i> &nbsp; 产品</a></li>
+<!--             <li><a href="#templatemo_timeline"><i class="glyphicon glyphicon-calendar"></i> &nbsp; 发展历程</a></li> -->
+            <li><a href="#templatemo_contact"><i class="glyphicon glyphicon-phone-alt"></i> &nbsp; 联系我们</a></li>
+            <li><a href="#templatemo_contact"><i class="glyphicon glyphicon-road"></i> &nbsp; 控制台</a></li>
         </ul>
 </div>
 <div class="container_wapper">
     <div id="templatemo_banner_menu">
         <div class="container-fluid">
             <div class="col-xs-4 templatemo_logo">
-            	<a rel="nofollow" href="/itaste">
-                	<img src="/itaste/Public/images/templatemo_logo.jpg" id="logo_img" alt="dragonfruit free html5 template" />
-                	<h1 id="logo_text">SUPER<span> ITASTE  FAC </span></h1>
+            	<a rel="nofollow" href="/web-php/itaste/index.php">
+                	<img src="/web-php/itaste/Public/images/templatemo_logo.jpg"  id="logo_img" alt="超级经理人" />
+                	<h1 id="logo_text">SUPER <span>MANAGER</span></h1>
+                	<h1 class="red" style="font-size: 15px;">超级经理人</h1>
                 </a>
             </div>
             <div class="col-sm-8 hidden-xs">
                 <ul class="nav nav-justified">
                     <li><a href="#templatemo_banner_slide">主页</a></li>
-                    <li><a href="#templatemo_about">About</a></li>
-                    <li><a href="#templatemo_events">Events</a></li>
-                    <li><a href="#templatemo_timeline">Timeline</a></li>
-                    <li><a href="#templatemo_contact">Contact</a></li>
+                    <li><a href="#templatemo_about">团队</a></li>
+                    <li><a href="#templatemo_events">产品</a></li>
+<!--                     <li><a href="#templatemo_timeline">发展历程</a></li> -->
+                    <li><a href="#templatemo_contact">联系我们</a></li>
+                    <li><a href="javascript:void(0);" onclick="alert('后台');">控制台</a></li>
                 </ul>
             </div>
             <div class="col-xs-8 visible-xs">
@@ -81,105 +90,122 @@
         </div>
     </div>
 </div>
+
 <div id="templatemo_about" class="container_wapper">
     <div class="container-fluid">
-        <h1>About Our Organization</h1>
+        <h1>关于我们的组织</h1>
         <div class="col-sm-6 col-md-3 about_icon">
             <div class="imgwap mission"><i class="fa fa-rocket"></i></div>
-            <h2>Revenues</h2>
-            <p>Sed do eiusmod tempor incididunt ut labore et.</p>
+            <h2>我们的理念</h2>
+            <p>全新全意打造super级别的工业地产资源整合平台</p>
         </div>
-        <div class="col-sm-6 col-md-3 about_icon">
-            <div class="imgwap product"><i class="fa fa-cubes"></i></div>
-            <h2>Opportunities</h2>
-            <p>Tempor incididunt ut labore et dolore magna.</p>
+         <div class="col-sm-6 col-md-3 about_icon">
+            <div class="imgwap statistic"><i class="fa fa-comments"></i></div>
+            <h2>成长</h2>
+            <p>O2O时代已来临，草根们，是我们崛起的时候了，行动起来...</p>
         </div>
         <div class="col-sm-6 col-md-3 about_icon">
             <div class="imgwap testimonial"><i class="fa fa-bar-chart-o"></i></div>
-            <h2>Growth</h2>
-            <p>Dolore magna aliqua. Ut enim ad minim veniam.</p>
+            <h2>加入我们</h2>
+            <p>如果你和我的团队有相同的想法，加入我们，打造一流的资源整合平台</p>
         </div>
+       
         <div class="col-sm-6 col-md-3 about_icon">
-            <div class="imgwap statistic"><i class="fa fa-comments"></i></div>
-            <h2>Social Media</h2>
-            <p>Aliqua. Ut enim ad minim veniam, quis nostrud aliqua.</p>
+            <div class="imgwap product"><i class="fa fa-cubes"></i></div>
+            <h2>我们的成员</h2>
+            <p>目前处于启动阶段，只有几个有理念的未来super PM</p>
         </div>
         <div class="clearfix testimonial_top_bottom_spacer"></div>
         <div class="col-xs-1 pre_next_wap" id="prev_testimonial">
             <a href="#"><span class="glyphicon glyphicon-chevron-left pre_next"></span></a>
         </div>
-        
+       
         <div id="testimonial_text_wap" class="col-xs-9 col-sm-10">
+         <center><h2 style="color:#e35354;margin:30sp;font-weight: bolder;">优秀经理人热榜</h2></center>
+        <?php if(is_array($managers)): $i = 0; $__LIST__ = $managers;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><div class="testimonial_text">
+                <div class="col-sm-3">
+                    <img src="<?php echo ($vo["pic"]); ?>" class="img-responsive" alt="Business Development Manager" />
+                </div>
+                <div class="col-sm-9">
+                    <h2> <?php echo ($vo["mingzi"]); ?> </h2>
+                    <h3> <?php echo ($vo["jibie"]); ?> </h3>
+                    <p> <?php echo ($vo["geyan"]); ?> </p>
+                </div>
+            </div><?php endforeach; endif; else: echo "" ;endif; ?>
+        
+        <!-- 
               <div class="testimonial_text">
                 <div class="col-sm-3">
-                    <img src="/itaste/Public/images/templatemo_member_01.jpg" class="img-responsive" alt="Business Development Manager" />
+                    <img src="/web-php/itaste/Public/images/templatemo_member_01.jpg" class="img-responsive" alt="Business Development Manager" />
                 </div>
                 <div class="col-sm-9">
                     <h2>Tracy Mya</h2>
                     <h3>Business Development Manager</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
                 </div>
-            </div><!--.testimonial_text-->
+            </div>.testimonial_text
             <div class="testimonial_text">
                 <div class="col-sm-3">
-                    <img src="/itaste/Public/images/templatemo_member_02.jpg" class="img-responsive" alt="Chief Public Relation Officer" />
+                    <img src="/web-php/itaste/Public/images/templatemo_member_02.jpg" class="img-responsive" alt="Chief Public Relation Officer" />
                 </div>
                 <div class="col-sm-9">
                     <h2>Mary Kas</h2>
                     <h3>Chief Public Relation Officer</h3>
                     <p>Fusce et orci mollis, congue lorem vitae, semper erat. Curabitur quis pellentesque nisl, at adipiscing libero. Integer at sem dui. Fusce posuere aliquet dolor, at viverra odio accumsan sed. Sed pharetra vel risus a convallis. Maecenas in adipiscing libero, id molestie odio. Phasellus id pharetra mauris, sit amet varius velit. Aliquam non dapibus libero.</p>
                 </div>
-            </div><!--.testimonial_text-->
+            </div>.testimonial_text
             <div class="testimonial_text">
                 <div class="col-sm-3">
-                    <img src="/itaste/Public/images/templatemo_member_03.jpg" class="img-responsive" alt="Marketing Executive" />
+                    <img src="/web-php/itaste/Public/images/templatemo_member_03.jpg" class="img-responsive" alt="Marketing Executive" />
                 </div>
                 <div class="col-sm-9">
                     <h2>Julia Pan</h2>
                     <h3>Marketing Executive</h3>
                     <p>Maecenas nec rhoncus orci. Morbi tempus ut leo ac varius. Cras convallis sagittis dignissim. Aenean diam libero, venenatis eu risus eu, tincidunt porttitor orci. Nulla consequat mi et lectus vehicula condimentum. Nulla ullamcorper dolor vehicula dolor interdum, eget fermentum ligula bibendum. Sed vel dolor libero.</p>
                 </div>
-            </div><!--.testimonial_text-->
+            </div>.testimonial_text
             <div class="testimonial_text">
                 <div class="col-sm-3">
-                    <img src="/itaste/Public/images/templatemo_member_04.jpg" class="img-responsive" alt="Chief Executive Officer" />
+                    <img src="/web-php/itaste/Public/images/templatemo_member_04.jpg" class="img-responsive" alt="Chief Executive Officer" />
                 </div>
                 <div class="col-sm-9">
                     <h2>Linda Von</h2>
                     <h3>Chief Executive Officer</h3>
                     <p>Donec lacinia erat quis venenatis varius. Suspendisse non turpis vitae libero interdum lacinia. Nulla in nibh arcu. Donec quam neque, porta at pellentesque at, imperdiet ut velit. Pellentesque luctus ac nunc et hendrerit. Aliquam eu scelerisque eros. Vestibulum scelerisque mi nec augue condimentum rhoncus.</p>
                 </div>
-            </div><!--.testimonial_text-->        </div><!--#testimonial_text_wap-->
+            </div> --><!--.testimonial_text-->        </div><!--#testimonial_text_wap-->
         <div class="col-xs-1 pre_next_wap" id="next_testimonial">
             <a href="#"><span class="glyphicon glyphicon-chevron-right pre_next"></span></a>
         </div>
+        
         <div class="clearfix testimonial_top_bottom_spacer"></div>
     </div>
 </div><!--templatemo_about-->
 <div id="templatemo_events" class="container_wapper">
     <div class="container-fluid">
-        <h1>Events</h1>
+        <h1>产品-打造完全免费的资源整合平台</h1>
         <div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
             <div class="event_box_wap event_animate_left">
                 <div class="event_box_img">
-                    <img src="/itaste/Public/images/templatemo_event_01.jpg" class="img-responsive" alt="Web Design Trends" />
+                    <img src="/web-php/itaste/Public/images/templatemo_event_01.jpg" class="img-responsive" alt="Web Design Trends" />
                 </div>
                 <div class="event_box_caption">
-                    <h1>Web Design Trends</h1>
-                    <p><span class="glyphicon glyphicon-map-marker"></span> New Hotel, Bangkok, Thailand &nbsp;&nbsp; <span class="glyphicon glyphicon-time"></span> 4:00 PM to 8:00 PM</p>
-                    <p>Quisque feugiat dapibus lectus ut consectetur. Donec et ante vitae leo cursus hendrerit vitae ac mauris. Suspendisse dictum pretium urna quis rutrum. Nullam tincidunt dolor ut leo malesuada, eget volutpat turpis porttitor.</p>
+                    <h1><span class="red">快速</span>实时信息采集</h1>
+                    <p><span class="glyphicon glyphicon-map-marker"></span>地图采集 &nbsp;&nbsp; 
+                    <span class="glyphicon glyphicon-time"></span>实时</p>
+                    <p>掌上轻轻一按，实时上传图片信息，在地图轻松完成厂房数据信息采集，不错不漏，瞬间完成，再也不用担心采集信息凌乱了，让工作更加轻松、简单、高效</p>
                 </div>
             </div>
         </div>
         <div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
             <div class="event_box_wap event_animate_right">
                 <div class="event_box_img">
-                    <img src="/itaste/Public/images/templatemo_event_02.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                    <img src="/web-php/itaste/Public/images/templatemo_event_02.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
                 </div>
                 <div class="event_box_caption">
-                    <h1>Free Bootstrap Seminar</h1>
-                    <p><span class="glyphicon glyphicon-map-marker"></span> Digital Hall, Yangon, Myanmar &nbsp;&nbsp; <span class="glyphicon glyphicon-time"></span> 10:30 AM to 3:30 PM </p>
-                    <p>Vestibulum dapibus dolor porttitor urna pretium euismod. Aliquam lobortis enim at lacinia mollis. Curabitur eget sem eros. Duis pulvinar rhoncus lectus, ac hendrerit enim pharetra et.</p>
+                    <h1><span class="red">快速</span>高效客户配盘</h1>
+                    <p><span class="glyphicon glyphicon-map-marker"></span>客户配盘&nbsp;&nbsp; <span class="glyphicon glyphicon-time"></span>高效</p>
+                    <p>客户配盘，附近点配盘，快速、高效匹配，再也不用，一点一点找地点，找地点对应的厂房；附加高级配盘，精细度更高，匹配度更出色；完美匹配，不是问题；可视化，更智能，快速匹配</p>
                 </div>
             </div>
         </div>
@@ -187,31 +213,33 @@
         <div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
             <div class="event_box_wap event_animate_left">
                 <div class="event_box_img">
-                    <img src="/itaste/Public/images/templatemo_event_03.jpg" class="img-responsive" alt="" />
+                    <img src="/web-php/itaste/Public/images/templatemo_event_03.jpg" class="img-responsive" alt="" />
                 </div>
                 <div class="event_box_caption">
-                    <h1>Mobile Designs</h1>
-                    <p><span class="glyphicon glyphicon-map-marker"></span> Old Town Center, Mandalay, Myanmar &nbsp;&nbsp; <span class="glyphicon glyphicon-time"></span> 3:30 PM to 6:30 PM </p>
-                    <p>Etiam ac ante gravida, pellentesque odio non, facilisis dui. Suspendisse vestibulum justo quis sapien sodales, in pellentesque erat congue.</p>
+                    <h1>业务找上门</h1>
+                    <p><span class="glyphicon glyphicon-map-marker"></span>金牌理念&nbsp;&nbsp; <span class="glyphicon glyphicon-time"></span>信誉</p>
+                    <p>系统会定期，对每个区域排名前5000的经理人，推送已经匹配好的，客户资源和厂房信息，用业务来促就我们的经理人；每个区域，无论房东还是客户，我们会在显示产品信息时，推荐该区域排名前十的金牌经理人，让客户、房东找上您</p>
                 </div>
             </div>
         </div>
         <div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
             <div class="event_box_wap event_animate_right">
                 <div class="event_box_img">
-                    <img src="/itaste/Public/images/templatemo_event_04.jpg" class="img-responsive" alt="" />
+                    <img src="/web-php/itaste/Public/images/templatemo_event_04.jpg" class="img-responsive" alt="" />
                 </div>
                 <div class="event_box_caption">
-                    <h1>Happy Startups</h1>
-                    <p><span class="glyphicon glyphicon-map-marker"></span> New Hat, Lashio, Myanmar &nbsp;&nbsp; <span class="glyphicon glyphicon-time"></span> 2:15 PM to 5:15 PM </p>
-                    <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc rutrum urna eget augue placerat sodales. Mauris ut dapibus nisi, eget fringilla lectus.</p>
+                    <h1>信息共享</h1>
+                    <p><span class="glyphicon glyphicon-map-marker"></span>优质分享&nbsp;&nbsp; <span class="glyphicon glyphicon-time"></span> 合作 </p>
+                    <p>及时信息分享给指定合作伙伴，或者在我们平台分享，让其他经理人，第一时间看到，让合作伙伴找到你；优势合作，更加高效，更加出色的整合资源</p>
                 </div>
             </div>
         </div>
     </div>
 </div>
+
+<!-- 
 <div id="templatemo_timeline" class="container_wapper">
-    <h1>Timeline</h1>
+    <h1>我们的发展历程</h1>
     <div class="container-fluid">
         <div class="time_line_wap">
             <div class="time_line_caption">10 days ago</div>
@@ -287,17 +315,24 @@
         </div>
     </div>
 </div>
+   -->
 <div id="templatemo_contact" class="container_wapper">
+
     <div class="container-fluid">
-        <h1>Contact</h1>
+        <h1>联系我们</h1>
         <div class="col-xs-12">
             <div id="templatemo_contact_map"></div>
         </div>
         <div class="col-md-4">
-            <h2>Contact Info.</h2>
-            <p>Sed viverra nunc magna, quis placerat augue pellentesque quis. Sed nec pellentesque dolor. Aenean in lectus enim. Phasellus eu egestas libero. Vivamus ultrices ligula a dapibus lobortis.</p>
+            <h2>联系信息</h2>
+            <p>优质决定高效，思想决定未来；如果您有如何的意见或者需求或者好的想法，请联系我们，诚恳各方idea!</p>
             <br>
-            <p><strong>Email:</strong> info@company.com<br /><strong>Phone:</strong> 010-020-0340<br /><strong>Website:</strong> www.company.com<br /><strong>Address:</strong> 123 Thamine Street, Digital Estate, Yangon 10620, Myanmar</p>
+            <p>
+<!--             <strong>Phone:</strong> 010-020-0340<br /> -->
+            <strong>宗旨:</strong>人人都是super经理人<br/>
+            <strong>理念:</strong>成就梦想，点滴做起<br />
+            <strong>电子邮箱:</strong> 2240455331@qq.com<br />
+            </p>
             <ul class="list-inline social-link">
                 <li>
                     <a href="#"><i class="fa fa-linkedin"></i></a> 
@@ -319,29 +354,29 @@
         <form action="#" method="post" class="col-md-8">
             <div class="row">
                 <div class="col-md-12">
-                <h2>Send Enquiry</h2>
+                <h2>发送您的意见或需求</h2>
                 </div>
                 <div class="col-md-6">
-                    <p>Name</p>
-                    <input type="text" name="name" id="name" placeholder="Your Name" />
+                    <p>姓名：</p>
+                    <input type="text" name="name" id="name" placeholder="您的名字" />
                 </div>
                 <div class="col-md-6">
-                    <p>Email</p>
-                    <input type="text" name="email" id="email" placeholder="Your Email" />
+                    <p>电子邮箱：</p>
+                    <input type="text" name="email" id="email" placeholder="您的邮箱" />
                 </div>
                 <div class="col-md-12">
-                    <p>Subject</p>
-                    <input type="text" name="subject" id="subject" placeholder="Subject" />
+                    <p>标题：</p>
+                    <input type="text" name="subject" id="subject" placeholder="标题" />
                 </div>
                 <div class="col-md-12">
-                    <p>Message</p>
-                    <textarea name="message" id="message"  placeholder="Write your message here..."></textarea>
+                    <p>内容：</p>
+                    <textarea name="message" id="message"  placeholder="hi，写到这哈..."></textarea>
                 </div>
                 <div class="col-xs-6 col-sm-3 col-md-offset-6">
-                    <button type="submit">Send</button>
+                    <button type="submit">发送</button>
                 </div>
                 <div class="col-xs-6 col-sm-3">
-                    <button type="reset">Reset</button>
+                    <button type="reset">清空</button>
                 </div>
             </div>
         </form>
@@ -349,18 +384,21 @@
 </div>
 <div id="templatemo_footer">
     <div>
-        <p>Copyright &copy; 2014.Company name All rights reserved.<a target="_blank" href="http://sc.chinaz.com/moban/">&#x7F51;&#x9875;&#x6A21;&#x677F;</a></p>
+        <p>Copyright &copy; 2014.ki_tom diaosi All rights reserved. 
+<!--         <a target="_blank" href="http://sc.chinaz.com/moban/">&#x7F51;&#x9875;&#x6A21;&#x677F;</a> -->
+        </p>
     </div>
 </div>
-<script src="/itaste/Public/js/jquery.min.js"></script>
-<script src="/itaste/Public/js/jquery-ui.min.js"></script>
-<script src="/itaste/Public/js/bootstrap.min.js"></script>
-<script src="/itaste/Public/js/jquery.singlePageNav.min.js"></script>
-<script src="/itaste/Public/js/unslider.min.js"></script>
+<script src="/web-php/itaste/Public/js/jquery.min.js"></script>
+<script src="/web-php/itaste/Public/js/jquery-ui.min.js"></script>
+<script src="/web-php/itaste/Public/js/bootstrap.min.js"></script>
+<script src="/web-php/itaste/Public/js/jquery.singlePageNav.min.js"></script>
+<script src="/web-php/itaste/Public/js/unslider.min.js"></script>
 
-<script src="/itaste/Public/js/templatemo_script.js"></script>
+<script src="/web-php/itaste/Public/js/templatemo_script.js"></script>
 <!-- <div style="display:none">
 <script src='http://v7.cnzz.com/stat.php?id=155540&web_id=155540' language='JavaScript' charset='gb2312'></script>
 </div> -->
+
 </body>
 </html>

@@ -70,6 +70,10 @@ h1 {
     text-align: left;
     color: #e35354;
 }
+.red {
+    font: normal normal normal 36px/1em 'Century Gothic', sans-serif;
+    color: #e35354;
+}
 #templatemo_banner_menu #logo_text span {
     color: #9fb038;
 }
@@ -143,6 +147,10 @@ h1 {
 }
 .templatemo_banner_slide_03 {
     background: url('../images/templatemo_banner_slide_03.jpg');
+    background-size: cover;
+}
+.templatemo_banner_slide_04 {
+    background: url('../images/templatemo_banner_slide_04.jpg');
     background-size: cover;
 }
 .copyrights{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
